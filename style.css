@@ -1,9 +1,11 @@
-body{
-
+body {
+margin: 0;
+padding: 0;
 }
 
-.center-box-main{
+.center-box-main {
     margin: auto;
     text-align: center;
-    
+
 }
+
